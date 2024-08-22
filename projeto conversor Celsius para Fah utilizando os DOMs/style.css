@@ -1,0 +1,29 @@
+body{
+    margin: 0; 
+    height: 100vh; 
+    background: linear-gradient(to right, #00aaff, #0044cc);
+}
+
+.container{
+width: 100%;
+
+}
+
+.inputH1{
+    width: 30%;
+    height: 250px; 
+    margin: 0 auto; 
+    background-color: rgb(226, 244, 250); 
+    padding: 20px;
+    text-align: center; 
+    font-size: larger;
+}
+.button{
+width: 100px;
+height: 100px;
+}
+
+.input{
+    width: 200px;
+    height: 95px;
+    }
